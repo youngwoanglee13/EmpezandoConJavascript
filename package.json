@@ -1,7 +1,7 @@
 {
   "name": "parcel-jest-base",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm install",
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
@@ -20,5 +20,14 @@
     "cypress": "^10.11.0",
     "jest": "^27.4.7",
     "parcel": "^2.2.0"
-  }
+  },
+  "main": "cypress.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youngwoanglee13/EmpezandoConJavascript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/youngwoanglee13/EmpezandoConJavascript/issues"
+  },
+  "homepage": "https://github.com/youngwoanglee13/EmpezandoConJavascript#readme"
 }
